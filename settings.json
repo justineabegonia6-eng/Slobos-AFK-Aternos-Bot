@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "burat.joinmc.world",
-    "port": 30557,
+    "ip": "hakdog.joinmc.world",
+    "port": 32090,
     "version": "",
     "try-creative": false
   },
